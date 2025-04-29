@@ -1,2 +1,2 @@
 # Neuronexus
-Tasks for NeuroNexus project.
+Tasks for Neuronexus project.
